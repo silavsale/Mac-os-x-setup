@@ -3,6 +3,6 @@
 
 ### Install 
 
-Install brew
-Move and resize windows with ease
-brew cask install spectacle
+* Install brew
+* //Move and resize windows with ease
+* brew cask install spectacle
